@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+    "textures": {
+      "all": "block/variants/deepslate_coal_ore/1"
+  }
+}

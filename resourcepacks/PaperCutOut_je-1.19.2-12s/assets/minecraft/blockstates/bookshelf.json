@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/bookshelf" },
+      { "model": "block/variants/bookshelf/bookshelf1" },
+      { "model": "block/variants/bookshelf/bookshelf2" },
+      { "model": "block/variants/bookshelf/bookshelf3" },
+      { "model": "block/variants/bookshelf/bookshelf4" },
+      { "model": "block/variants/bookshelf/bookshelf5" },
+      { "model": "block/variants/bookshelf/bookshelf6" },
+      { "model": "block/variants/bookshelf/bookshelf7" }
+    ]
+  }
+}

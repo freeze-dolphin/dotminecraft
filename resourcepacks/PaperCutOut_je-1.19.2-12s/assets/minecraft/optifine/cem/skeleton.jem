@@ -1,0 +1,12 @@
+{
+  "models": 
+  [
+    {
+      "model": "quiver.jpm",
+      "part": "body", 
+	  "attach": true,
+      "translate": [5, 14, -3.98],
+      "rotate": [0, 0, 25]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "variants":{
+        "":[
+      { "model": "minecraft:block/end_stone" },
+      { "model": "minecraft:block/variants/end_stone/end_stone1" },
+      { "model": "minecraft:block/variants/end_stone/end_stone2" },
+      { "model": "minecraft:block/variants/end_stone/end_stone3" }
+    ]
+  }
+}

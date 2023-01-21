@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sculk"
+      },
+      {
+        "model": "minecraft:block/sculk_mirrored"
+      }
+    ]
+  }
+}

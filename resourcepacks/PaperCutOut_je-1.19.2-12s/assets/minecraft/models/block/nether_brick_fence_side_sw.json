@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"crossbar": "block/3d/fence_nether_side"
+	},
+	"elements": [
+		{
+			"name": "top bar",
+			"from": [7, 12, 10],
+			"to": [9, 15, 16],
+			"faces": {
+				"east": {"uv": [0, 2, 6, 5], "texture": "#crossbar"},
+				"south": {"uv": [0, 0, 0.5, 3], "rotation": 270, "texture": "#crossbar", "cullface": "south"},
+				"west": {"uv": [6, 2, 0, 5], "texture": "#crossbar"},
+				"up": {"uv": [10, 4, 16, 2], "rotation": 90, "texture": "#crossbar"},
+				"down": {"uv": [0, 7, 6, 9], "rotation": 90, "texture": "#crossbar"}
+			}
+		},
+		{
+			"name": "lower bar",
+			"from": [7, 6, 10],
+			"to": [9, 9, 16],
+			"faces": {
+				"east": {"uv": [0, 8, 6, 11], "texture": "#crossbar"},
+				"south": {"uv": [0, 0, 0.5, 3], "rotation": 270, "texture": "#crossbar", "cullface": "south"},
+				"west": {"uv": [6, 7, 0, 10], "texture": "#crossbar"},
+				"up": {"uv": [10, 10, 16, 8], "rotation": 90, "texture": "#crossbar"},
+				"down": {"uv": [0, 2, 6, 4], "rotation": 90, "texture": "#crossbar"}
+			}
+		}
+	]
+}

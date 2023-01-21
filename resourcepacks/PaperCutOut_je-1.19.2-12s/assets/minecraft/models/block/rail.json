@@ -1,0 +1,76 @@
+{
+	"__comment": "Designed by Chengzzi89 with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/rail",
+		"rail": "block/rail",
+		"texture": "block/rail"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 12 ],
+			"to": [ 16, 1, 14 ],
+			"faces": {
+				"down": { "uv": [ 4, 13, 5, 14 ], "texture": "#rail" },
+				"up": { "uv": [ 0, 12, 16, 14 ], "texture": "#rail" },
+				"north": { "uv": [ 5, 12, 6, 13 ], "texture": "#rail" },
+				"south": { "uv": [ 5, 13, 6, 14 ], "texture": "#rail" },
+				"west": { "uv": [ 7, 12, 9, 13 ], "texture": "#rail" },
+				"east": { "uv": [ 7, 13, 9, 14 ], "texture": "#rail" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 7 ],
+			"to": [ 16, 1, 9 ],
+			"faces": {
+				"down": { "uv": [ 4, 3, 5, 4 ], "texture": "#rail" },
+				"up": { "uv": [ 0, 2, 16, 4 ], "texture": "#rail" },
+				"north": { "uv": [ 5, 2, 6, 3 ], "texture": "#rail" },
+				"south": { "uv": [ 5, 3, 6, 4 ], "texture": "#rail" },
+				"west": { "uv": [ 7, 2, 9, 3 ], "texture": "#rail" },
+				"east": { "uv": [ 7, 3, 9, 4 ], "texture": "#rail" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 2 ],
+			"to": [ 16, 1, 4 ],
+			"faces": {
+				"down": { "uv": [ 4, 3, 5, 4 ], "texture": "#rail" },
+				"up": { "uv": [ 0, 2, 16, 4 ], "texture": "#rail" },
+				"north": { "uv": [ 5, 2, 6, 3 ], "texture": "#rail" },
+				"south": { "uv": [ 5, 3, 6, 4 ], "texture": "#rail" },
+				"west": { "uv": [ 7, 2, 9, 3 ], "texture": "#rail" },
+				"east": { "uv": [ 7, 3, 9, 4 ], "texture": "#rail" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 12, 0, 0 ],
+			"to": [ 14, 2, 16 ],
+			"faces": {
+				"down": { "uv": [ 12, 0, 14, 16 ], "texture": "#rail" },
+				"up": { "uv": [ 12, 0, 14, 16 ], "texture": "#rail" },
+				"north": { "uv": [ 13, 14, 14, 16 ], "texture": "#rail" },
+				"south": { "uv": [ 13, 14, 14, 16 ], "texture": "#rail" },
+				"west": { "uv": [ 12, 14, 13, 16 ], "texture": "#rail" },
+				"east": { "uv": [ 13, 14, 14, 16 ], "texture": "#rail" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 2, 0, 0 ],
+			"to": [ 4, 2, 16 ],
+			"faces": {
+				"down": { "uv": [ 2, 0, 4, 16 ], "texture": "#rail" },
+				"up": { "uv": [ 2, 0, 4, 16 ], "texture": "#rail" },
+				"north": { "uv": [ 2, 14, 3, 16 ], "texture": "#rail" },
+				"south": { "uv": [ 2, 14, 3, 16 ], "texture": "#rail" },
+				"west": { "uv": [ 2, 14, 3, 16 ], "texture": "#rail" },
+				"east": { "uv": [ 3, 14, 4, 16 ], "texture": "#rail" }
+			}
+		}
+	]
+}

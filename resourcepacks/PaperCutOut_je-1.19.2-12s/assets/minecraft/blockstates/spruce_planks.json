@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/spruce_planks" },
+      { "model": "block/variants/spruce_planks/spruce_planks1" },
+      { "model": "block/variants/spruce_planks/spruce_planks2" },
+      { "model": "block/variants/spruce_planks/spruce_planks3" },
+      { "model": "block/variants/spruce_planks/spruce_planks4" },
+      { "model": "block/variants/spruce_planks/spruce_planks5" },
+      { "model": "block/variants/spruce_planks/spruce_planks6" },
+      { "model": "block/variants/spruce_planks/spruce_planks7" }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "block/variants/grass_flowers/grass_block_decor",
+	"textures": {
+		"decor": "block/variants/grass_flowers/grass_block_top_flower2"
+		}
+}
