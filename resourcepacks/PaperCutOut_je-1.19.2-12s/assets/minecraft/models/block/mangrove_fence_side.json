@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/fence_side",
-	"textures": {
-		"texture": "block/3d/fence_mangrove_side"
-	}
-}
